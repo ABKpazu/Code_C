@@ -27,6 +27,7 @@ int main()
     
     printf("The Sum is: %d + %di\n", sum.real, sum.im);
     printf("The Product is: %d + %di\n", product.real, product.im);
+    return 0;
 }
 
 struct complex cadd(struct complex creal, struct complex cim)
