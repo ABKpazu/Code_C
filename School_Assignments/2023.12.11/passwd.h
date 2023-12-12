@@ -7,6 +7,7 @@ extern bool isPasswordSetted;
 
 #endif
 
+
 #ifndef __PasswordFUN__
 #define __PasswordFUN__
 
